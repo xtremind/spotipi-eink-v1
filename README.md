@@ -21,3 +21,5 @@ chmod +x setup.sh
 ```
 sudo bash setup.sh
 ```
+
+see details [here](https://www.youtube.com/watch?v=uQYIAYa27ds)
